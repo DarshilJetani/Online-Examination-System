@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+table {
+    text-align: center;
+    align-self: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+th,
+td {
+    padding: 5px;
+}

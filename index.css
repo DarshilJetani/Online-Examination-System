@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+form {
+    margin: auto !important;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+input {
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 2px solid var(--color-primary-variant);
+    resize: none;
+    color: var(--color-white);
+}
+
+
+.container {
+    margin-top: 50px;
+    display: flex;
+    gap: 30px;
+}
+
+.text {
+    width: 50%;
+}
+
+.index__form {
+    width: 50%;
+}
